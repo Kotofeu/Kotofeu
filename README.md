@@ -44,7 +44,7 @@ const DanilPetrov = {
 ---
 ## 📈 Статистика GitHub
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kotofeu&theme=dracula&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotofeu&layout=compact&langs_count=8&theme=dracula"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kotofeu&theme=dracula" alt="Kotofeu" />
@@ -53,5 +53,6 @@ const DanilPetrov = {
 ---
 # 🏆 Достижения
 
-![](https://github-trophies.vercel.app/?username=Kotofeu&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kotofeu&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Трофеи GitHub" />
+</div>
