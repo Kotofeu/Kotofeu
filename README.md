@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💫 Обо мне</h1>
-  <h2>👋 Привет, я Данил Петров</h2>
+  <h3>👋 Привет, я Данил Петров</h3>
   <h3>Frontend Developer | React/Next.js</h3>
 </div>
 
