@@ -1,9 +1,11 @@
-# 💫 Обо мне
-### 👋 Привет, я Данил
-### Frontend Developer | React/Next.js
-
+<div align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=435&lines=Привет%2C+я+Данил+👋;React%2FNext.js+разработчик" alt="Приветствие" />
+  </h1>
+</div>
 
 ## 🛠 Технический профиль
+
 
 ```javascript
 const DanilPetrov = {
