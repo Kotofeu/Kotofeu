@@ -1,6 +1,6 @@
 # 💫 Обо мне
-👋 Привет, я Данил Петров
-Frontend Developer | React/Next.js
+### 👋 Привет, я Данил
+### Frontend Developer | React/Next.js
 
 
 ## 🛠 Технический профиль
