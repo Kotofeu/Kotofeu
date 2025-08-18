@@ -1,4 +1,4 @@
-<h1 style="border-bottom: none;">👋 Привет, я Данил Петров</h1>
+<h1 style="border-bottom: none;">💫 Обо мне</h1>
 
 <div align="center">
   <h2 style="border-bottom: none;">👋 Привет, я Данил Петров</h2>
