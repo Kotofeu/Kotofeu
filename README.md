@@ -8,7 +8,7 @@
 ### 🛠 Технический профиль
 
 ```javascript
-const danilPetrov = {
+const DanilPetrov = {
   code: ['TypeScript', 'JavaScript', 'HTML/CSS'],
   frameworks: ['React', 'Next.js'],
   styling: ['SASS', 'Less', 'CSS Modules'],
