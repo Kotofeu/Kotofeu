@@ -1,24 +1,23 @@
 # 👋 Привет, я Данил
+
 ### 💻 Frontend Developer | ⚛️ React/Next.js Specialist
 
 ## 🛠 Технический профиль
 
-
 ```javascript
 const DanilPetrov = {
-  code: ['TypeScript', 'JavaScript', 'HTML/CSS'],
-  frameworks: ['React', 'Next.js'],
-  styling: ['SASS', 'Less', 'CSS Modules'],
-  tools: ['Webpack', 'Vite', 'Docker', 'ESLint', 'Redux', 'MobX'],
-  databases: ['MongoDB', 'PostgreSQL'],
-  experience: '3+ года коммерческой разработки',
-  principles: ['Чистый код', 'Элегантные алгоритмы'],
-  focus: 'SSR/Next.js приложения',
+  code: ["TypeScript", "JavaScript", "HTML/CSS"],
+  frameworks: ["React", "Next.js"],
+  styling: ["SASS", "Less", "CSS Modules"],
+  tools: ["Webpack", "Vite", "Docker", "ESLint", "Redux", "MobX"],
+  databases: ["MongoDB", "PostgreSQL"],
+  experience: "3+ года коммерческой разработки",
+  principles: ["Чистый код", "Элегантные алгоритмы"],
+  focus: "SSR/Next.js приложения",
   quote: '"Сначала сделайте правильно, затем сделайте быстро" - Кент Бек',
-  inspiration: 'Книга "Грокаем алгоритмы"'
-}
+  inspiration: 'Книга "Грокаем алгоритмы"',
+};
 ```
-
 
 ## 🚀 Технологический стек
 
@@ -38,18 +37,9 @@ const DanilPetrov = {
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-
 ## 📈 Статистика GitHub
 
 <div align="center">
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Kotofeu&theme=dracula&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotofeu&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kotofeu&theme=dracula" alt="Kotofeu" />
-</div>
-
-
-## 🏆 Достижения
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kotofeu&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Трофеи GitHub" />
 </div>
